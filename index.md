@@ -8,6 +8,9 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 -->
 
 # Cahier de vivre
+<iframe class="airtable-embed" src="https://airtable.com/embed/shripNPND3PxYEdMm?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 <p><a href="https://docs.google.com/document/d/1CvDioTL3OASi9V8wyUTe_-csYd5msqV2VcTRrALP_Do/edit?usp=sharing">Anesthetics</a></p>
 <p><a href="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing">Anesthesia Tidbits</a></p>
 <p><a href="https://docs.google.com/document/d/15n4avrFehQrN2Z2qVzALzOZMRSZSrZcn3I4b6du1hio/edit?usp=sharing">Ideas for tomorrow</a></p>
+
