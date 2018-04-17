@@ -17,7 +17,7 @@ You can use HTML elements in Markdown, such as the comment element, and they won
     <th colspan="2"><iframe class="airtable-embed" src="https://airtable.com/embed/shripNPND3PxYEdMm?backgroundColor=gray" frameborder="0" onmousewheel="" style="background: transparent; border: 1px solid #ccc;"></iframe></th>
   </tr>
   <tr>
-    <th><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEwOTfQpYDF7ZIyjdy5bONXF5g39tDTZTVaGCYmn9XomXJkw/viewform" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours…</iframe></th> 
+    <th><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEwOTfQpYDF7ZIyjdy5bONXF5g39tDTZTVaGCYmn9XomXJkw/viewform" frameborder="0" onmousewheel="" style="background: transparent; border: 1px solid #ccc;"></iframe></th> 
     <th><script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrOpzHxINmNtdUSx?backgroundColor=gray" frameborder="0" onmousewheel="" style="background: transparent; border: 1px solid #ccc;"></iframe></th> 
   </tr>
 </table>
