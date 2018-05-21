@@ -13,7 +13,7 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 <p><a href="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing">Anesthesia Tidbits</a></p>
 <p><a href="https://docs.google.com/document/d/15n4avrFehQrN2Z2qVzALzOZMRSZSrZcn3I4b6du1hio/edit?usp=sharing">Ideas for tomorrow</a></p>
 
-<iframe src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true" allowfullscreen></iframe>
+<iframe src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true" style="width: 700px; height: 1100px" ></iframe>
 
 
 
