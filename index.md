@@ -15,6 +15,7 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ5CcRcYbW98FronVhfYznYH8avjxf86w9cCO-graly5qGMh97wqlg-lhxmXqKxoPQEYDE_0tPY3BPT/pub?embedded=true"></iframe>
 
+<--
 <table style="width:100%">
   <tr>
     <th colspan="2"><iframe class="airtable-embed" src="https://airtable.com/embed/shripNPND3PxYEdMm?backgroundColor=gray" frameborder="0" width="600" height="300" onmousewheel="" style="background: transparent; border: 1px solid #ccc;"></iframe></th>
@@ -24,6 +25,6 @@ You can use HTML elements in Markdown, such as the comment element, and they won
     <th><script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed" src="https://airtable.com/embed/shrOpzHxINmNtdUSx?backgroundColor=gray" frameborder="0" width="300" height="500" onmousewheel="" style="background: transparent; border: 1px solid #ccc;"></iframe></th> 
   </tr>
 </table>
-
+-->
 
 
