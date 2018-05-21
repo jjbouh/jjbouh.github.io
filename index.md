@@ -14,8 +14,7 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 <p><a href="https://docs.google.com/document/d/15n4avrFehQrN2Z2qVzALzOZMRSZSrZcn3I4b6du1hio/edit?usp=sharing">Ideas for tomorrow</a></p>
 
 <div class="fluidMedia">
-<iframe src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true" style="width: 1500px; height: 1100px" align ="center" marginwidth="0" marginheight="0" frameborder="0"
-    vspace="0" hspace="0"></iframe>
+<iframe src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true"></iframe>
 </div>
 
 
