@@ -1,7 +1,7 @@
 ---
 ---
 
-<!--@import "{{ site.theme }}";-->
+@import "{{ site.theme }}";
 .fluidMedia {
     border: 5px solid red;
     position: relative;
@@ -18,8 +18,7 @@
     height: 100%;
 }
 
-h1 {
+.title {
     font-size: 40pt;
     padding-left: 20px;
-       
 }
