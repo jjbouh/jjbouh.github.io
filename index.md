@@ -1,7 +1,6 @@
 <!--Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**
 You can use HTML elements in Markdown, such as the comment element, and they won't be affected by a markdown parser. However, if you create an HTML element in your markdown file, you cannot use markdown syntax within that element's contents.
 -->
-<!DOCTYPE html>
 <head>
     <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
     <title>Jason's Page</title>
@@ -12,7 +11,7 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 2. [Anesthesia Tidbits](https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing)  
 3. [Ideas for tomorrow](https://docs.google.com/document/d/15n4avrFehQrN2Z2qVzALzOZMRSZSrZcn3I4b6du1hio/edit?usp=sharing)
 
-<div class="fluidMedia" boarder="yes">
+<div class="fluidMedia">
   <iframe src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true"></iframe>
 </div>
 
