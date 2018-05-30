@@ -13,13 +13,13 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 <p><a href="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing">Anesthesia Tidbits</a></p>
 <p><a href="https://docs.google.com/document/d/15n4avrFehQrN2Z2qVzALzOZMRSZSrZcn3I4b6du1hio/edit?usp=sharing">Ideas for tomorrow</a></p>
 
-<div class="fluidMedia" align="center">
+<div class="fluidMedia">
 <iframe src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true"></iframe>
 </div>
 
 
 <!--
-<table style="width:100%">
+<table>
   <tr>
     <th colspan="2"><iframe class="airtable-embed" src="https://airtable.com/embed/shripNPND3PxYEdMm?backgroundColor=gray" frameborder="0" width="600" height="300" onmousewheel="" style="background: transparent; border: 1px solid #ccc;"></iframe></th>
   </tr>
