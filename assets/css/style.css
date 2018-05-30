@@ -17,3 +17,9 @@
     height: 100%;
     overflow: visible;
 }
+
+h1 {
+    font-size: 40pt;
+    padding-left: 20px;
+       
+}
