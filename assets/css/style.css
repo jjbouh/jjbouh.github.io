@@ -13,6 +13,7 @@
 
 .fluidMedia iframe {
     position: absolute;
+    border:none;
     width: 1000px;
     height: 100px;
     overflow: hidden;
