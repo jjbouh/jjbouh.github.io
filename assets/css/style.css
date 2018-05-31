@@ -4,8 +4,6 @@
 <!--@import "{{ site.theme }}";-->
 .fluidMedia {
     position: absolute;
-    padding-top: 30px;
-    margin: auto;
     width: 1400px;
     height: 1000px;
     overflow: hidden;
@@ -13,8 +11,8 @@
 
 .fluidMedia iframe {
     position: absolute;
-    border:none;
+    border: none;
     width: 1400px;
     height: 1000px;
-    overflow: hidden;
+    overflow: visible;
 }
