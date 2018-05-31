@@ -8,7 +8,7 @@
     margin: auto;
     width: 1400px;
     height: 1000px;
-    overflow: hidden;
+    overflow: visible;
 }
 
 .fluidMedia iframe {
@@ -16,5 +16,5 @@
     border:none;
     width: 1000px;
     height: 100px;
-    overflow: hidden;
+    overflow: visible;
 }
