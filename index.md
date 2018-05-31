@@ -12,7 +12,7 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 2. [Anesthesia Tidbits](https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing)  
 3. [Ideas for tomorrow](https://docs.google.com/document/d/15n4avrFehQrN2Z2qVzALzOZMRSZSrZcn3I4b6du1hio/edit?usp=sharing)
 
-<table style="width:100%;">
+<table style="width:1600px;">
     <tr>
         <th><div style="width:800px;">
             <iframe style="width:100%;height:1000px;overflow:visible" src="https://docs.google.com/document/d/1CvDioTL3OASi9V8wyUTe_-csYd5msqV2VcTRrALP_Do/edit?usp=sharing?embedded=true"></iframe>
