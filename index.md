@@ -25,8 +25,8 @@ You can use HTML elements in Markdown, such as the comment element, and they won
       </th>
     </tr>
 </table>
-          <!--
-<table>
+
+<!--<table>
   <tr>
     <th colspan="2"><iframe class="airtable-embed" src="https://airtable.com/embed/shripNPND3PxYEdMm?backgroundColor=gray" frameborder="0" width="600" height="300" onmousewheel="" style="background: transparent; border: 1px solid #ccc;"></iframe></th>
   </tr>
