@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 .fluidMedia {
-    position: absolute;
+    position: relative;
     width: 1400px;
     height: 1000px;
     overflow: hidden;
