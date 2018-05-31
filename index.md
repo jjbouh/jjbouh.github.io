@@ -14,11 +14,11 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 
 <table style="width:800px;">
     <tr>
-        <th><div style="margin:auto;width:800px;">
+        <th><div style="margin:auto;width:800px;border:none;">
             <iframe style="width:100%;height:1000px;overflow:visible" src="https://docs.google.com/document/d/1CvDioTL3OASi9V8wyUTe_-csYd5msqV2VcTRrALP_Do/edit?usp=sharing?embedded=true"></iframe>
         </div></th>
         <th><div style="width:800px;">
-            <iframe style="width:100%;height:1000px;" src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true"></iframe>
+            <iframe style="width:100%;height:1000px;border:none;" src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true"></iframe>
         </div></th>
     </tr>
 </table>
