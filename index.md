@@ -2,7 +2,7 @@
 You can use HTML elements in Markdown, such as the comment element, and they won't be affected by a markdown parser. However, if you create an HTML element in your markdown file, you cannot use markdown syntax within that element's contents.
 -->
 <head>
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <meta name="viewport" content="width=device-width,maximum-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css">
     <title>Jason's Page</title>
 </head>
@@ -16,7 +16,7 @@ You can use HTML elements in Markdown, such as the comment element, and they won
     <tr>
         <div>
             <iframe style="width:700px;height:1000px;" src="https://docs.google.com/document/d/1CvDioTL3OASi9V8wyUTe_-csYd5msqV2VcTRrALP_Do/edit?usp=sharing?embedded=true"></iframe>
-        </div></th>
+        </div>
         <div>
             <iframe style="width:700px;height:1000px;" src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true"></iframe>
         </div>
