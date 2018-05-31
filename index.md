@@ -21,6 +21,8 @@ You can use HTML elements in Markdown, such as the comment element, and they won
       <th>
           <iframe style="width:700px;height:1000px;border:none;" src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true"></iframe>
       </th>
+    </tr>
+</table>
           <!--
 <table>
   <tr>
