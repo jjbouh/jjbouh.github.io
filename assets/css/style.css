@@ -8,13 +8,13 @@
     margin: auto;
     width: 1400px;
     height: 1000px;
-    overflow: visible;
+    overflow: hidden;
 }
 
 .fluidMedia iframe {
     position: absolute;
     border:none;
-    width: 1000px;
-    height: 100px;
-    overflow: visible;
+    width: 1400px;
+    height: 1000px;
+    overflow: hidden;
 }
