@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 .fluidMedia {
     position: relative;
-    width: 1400px;
+    width: 700px;
     height: 1000px;
     overflow: visible;
 }
@@ -12,7 +12,7 @@
 .fluidMedia iframe {
     position: absolute;
     border: none;
-    width: 1400px;
+    width: 700px;
     height: 1000px;
     overflow: visible;
 }
