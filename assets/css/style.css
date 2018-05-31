@@ -3,7 +3,7 @@
 
 <!--@import "{{ site.theme }}";-->
 .fluidMedia {
-    position: relative;
+    position: absolute;
     padding-top: 30px;
     margin: auto;
     width: 1400px;
@@ -12,7 +12,7 @@
 }
 
 .fluidMedia iframe {
-    position: relative;
+    position: absolute;
     border:none;
     width: 1400px;
     height: 1000px;
