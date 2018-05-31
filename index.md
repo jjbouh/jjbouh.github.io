@@ -15,10 +15,10 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 <table style="width:100%;">
     <tr>
         <th>
-            <iframe style="width:800px;height:1000px;overflow:visible" src="https://docs.google.com/document/d/1CvDioTL3OASi9V8wyUTe_-csYd5msqV2VcTRrALP_Do/edit?usp=sharing?embedded=true"></iframe>
+            <iframe style="width:100%;height:1000px;overflow:visible" src="https://docs.google.com/document/d/1CvDioTL3OASi9V8wyUTe_-csYd5msqV2VcTRrALP_Do/edit?usp=sharing?embedded=true"></iframe>
         </th>
         <th>
-            <iframe style="width:800px;height:1000px;border:none;" src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true"></iframe>
+            <iframe style="width:800px;height:1000px;border:none;overflow:visible;" src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true"></iframe>
         </th>
     </tr>
 </table>
