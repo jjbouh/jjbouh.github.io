@@ -13,12 +13,13 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 
 <table>
     <tr>
-        <div class="fluidMedia">
+        <th><div class="fluidMedia">
             <iframe src="https://docs.google.com/document/d/1CvDioTL3OASi9V8wyUTe_-csYd5msqV2VcTRrALP_Do/edit?usp=sharing?embedded=true"></iframe>
-        </div>
-        <div class="fluidMedia">
+        </div></th>
+        
+        <th><div class="fluidMedia">
             <iframe src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true"></iframe>
-        </div>
+        </div></th>
     </tr>
 </table>
 
