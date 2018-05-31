@@ -12,13 +12,13 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 2. [Anesthesia Tidbits](https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing)  
 3. [Ideas for tomorrow](https://docs.google.com/document/d/15n4avrFehQrN2Z2qVzALzOZMRSZSrZcn3I4b6du1hio/edit?usp=sharing)
 
-<table>
+<table style="border-style:none;">
     <tr>
         <th><div>
-            <iframe style="width:1400px;height:1000px;border-style=none;" src="https://docs.google.com/document/d/1CvDioTL3OASi9V8wyUTe_-csYd5msqV2VcTRrALP_Do/edit?usp=sharing?embedded=true"></iframe>
+            <iframe style="width:1400px;height:1000px;" src="https://docs.google.com/document/d/1CvDioTL3OASi9V8wyUTe_-csYd5msqV2VcTRrALP_Do/edit?usp=sharing?embedded=true"></iframe>
         </div></th>
-        <th><div class="fluidMedia" style="width:1400px;height:1000px;">
-            <iframe src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true"></iframe>
+        <th><div>
+            <iframe style="width:1400px;height:1000px;" src="https://docs.google.com/document/d/1fEddwnNOAzsZJ45BayFmAgMQ7lkEGSUI0AdtngEgIfo/edit?usp=sharing?embedded=true"></iframe>
         </div></th>
     </tr>
 </table>
